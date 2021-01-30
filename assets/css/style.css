@@ -1,0 +1,179 @@
+/* Created by Naufal Ulinnuha */
+
+.maincolor {color:#f7931e;}
+.inheritcolor {color: inherit;}
+.arial {font-family: "Arial" !important;}
+.calibri {font-family: "Calibri" !important;}
+.nunito {font-family: "Nunito" !important;}
+.roboto {font-family: "Roboto" !important;}
+.hr-orange {border-top: 1px solid #f7931e;border-block-end-style: none;border-right-style: none;border-left-style: none;}
+.hr-orange2 {border-top: 2px solid #f7931e;border-block-end-style: none;border-right-style: none;border-left-style: none;}
+.hr-gray {border-top: 1px solid #ccc;border-block-end-style: none;border-right-style: none;border-left-style: none;}
+.tdnone {text-decoration: none;}
+.hp-only {display:none}
+.roww {display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap; flex-wrap: wrap;}
+.bg-body {background-image : url('../img/home.pg');background-color : #e6e6e6;background-position-x: center;margin: 0px;}
+.available {font-weight: 700;background-color: #eee6;border: 1px solid #f7931e;}
+
+
+/*Post*/
+.post-header {width: 100%;}
+.post-content {margin-top: 50px;}
+.bg-post {background-color : #fff;background-position-x: center;margin: 0px;}
+.post-judul {color: #f7931e;font-family: "Nunito";font-size: 34px;font-weight: 700;margin: 0px;}
+.post-genre {color: #999999;font-family: "Nunito";font-weight: 700;margin: 0px;}
+.post-genre > a {color:#f7931e;text-decoration: none;}
+.post-desc {color: #999999;font-family: "Nunito";font-weight: 600;margin: 0px;text-align: justify;}
+.post-stream {color: #999999;font-family: "Nunito";font-size:21px;font-weight: 600;margin: 0px auto 0px 0px;}
+.st-nav>a>i {color: #999999;font-size:21px;margin: 5px 10px;}
+.st-img>div>a>img {border-radius: 10px;width: 100%;}
+.st-eps {color: #999;font-family: "Nunito";font-size: 14px;font-weight: 600;margin: 10px 0px 10px 0px;}
+.col-st {-ms-flex: 0 0 22%;flex: 0 0 22%;max-width: 22%;position: relative;width: 100%;margin: 5px auto 5px auto;}
+.sh {border: 1px solid #ddd;padding: 5px;}
+.sh-btn>a {color: #fff;font-family: "Roboto";font-size: 14px;font-weight: 700;padding: 8px;margin: 5px auto;
+    -ms-flex: 0 0 30%;flex: 0 0 30%;max-width: 30%;border-radius: 0px;position: relative;width: 100%;}
+.sh-download {color: #fff;background-color:#f7931e;font-family: "Nunito";font-size: 14px;font-weight: 700;
+	padding: 8px;margin: 5px auto;border-radius:5px;width: 120px;text-align: center;}
+.info {border: 1px solid #666;border-radius: 10px;padding: 10px;}
+.info-title {color:#000!important;font-family:"Verdana";margin:5px!important;font-size: 14px;font-weight: 600;}
+.info-text>p {color:#666;font-family:"Verdana";margin:9px;font-size: 12px}
+
+
+/*Anime List, Genre Season*/ 
+.list-a > a {color:#999999;font-family:"Nunito";text-decoration: none;margin-right:auto;font-size: 16px;
+	-ms-flex: 0 0 45%;flex: 0 0 45%;max-width: 45%;position: relative;width: 100%;
+	white-space: nowrap; overflow: hidden;text-overflow: ellipsis;}
+.list-p > p {color:#f7931e;font-family:"Nunito";text-decoration: none;margin:10px 0px 0px 0px;font-weight: 700;font-size: 18px;
+	-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.genre > a {color: #fff;background-color: #f7931e;border-color: #f7931e;font-family: "Nunito";font-size: 14px;font-weight: 700;line-height: 1.5;
+	padding: 8px;margin:5px auto;border-radius: 5px;
+	-ms-flex: 0 0 16%;flex: 0 0 16%;max-width: 16%;position: relative;width: 100%;}
+.filler, .filler2{background-color: transparent!important;border-color: transparent!important;}
+.judulseason {color:#f7931e;font-family: "Nunito";font-weight: 600;margin: 0px;}
+.tahun>a {color: #aaa;border-color: #aaa;font-family: "Nunito";font-size: 16px;font-weight: 600;line-height: 1.5;padding: 5px 15px;margin: 5px;border-radius: 5px;}
+.mlist-a > a {color:#f7931e;font-family:"Nunito";text-decoration: none;margin-right:auto;font-weight: 600;font-size: 18px;
+	-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+
+/*Header*/
+.animix {top: 200px;left:10px;position: relative;}
+.logo {color: #f7931e;font-family: "Arial";font-size: 24px;font-style: italic;font-weight: 600;text-decoration: none;}
+.logo-main {color: #f7931e;font-family: "Arial";font-size: 120px;font-style: italic;font-weight: 600;text-decoration: none;}
+.desc {color:#f7931e;font-size: 24px;font-weight: 700;}
+.nav-link-orange {font-size:16px;color:#f7931e;padding-right: 15px;padding-left: 15px;text-decoration: none;}
+.iroha {background-color: #fff;background-repeat: no-repeat;height: 510px;background-position-x: right;background-position-y: bottom;}
+.menu-m {margin: -10px;background-color: #fff;}
+.menu-t {margin: 0px 5px 0px 5px;text-align:right;}
+.menu-t2 {color:#f7931e;font-family:"Roboto";font-size: 13px;padding: 5px 5px 5px 5px;}
+.b-open{padding: 0px;font-size: 1.25rem;line-height: 1;background-color: transparent;border: 1px solid transparent;border-radius: 0.25rem;}
+.b-close {float: right;margin: 5px;}
+.sidebar {width:200px;height: 1500px;background-color:#fff;position: fixed;left: 0px;top:0px;padding: 5px;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+
+/*Content*/
+.main-content {}
+.content1 {-ms-flex: 0 0 68.5%;flex: 0 0 68.5%;max-width: 68.5%;position: relative;width: 100%;padding-right: 10px;padding-left: 10px;}
+.content2 {-ms-flex: 0 0 28%;flex: 0 0 28%;max-width: 28%;position: relative;width: 100%;padding-right: 10px;padding-left: 10px;}
+.content3 {-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%;position: relative;width: 100%;padding-right: 10px;padding-left: 10px;}
+.content {background-color:#fff; border-radius:5px;padding:10px}
+
+/*Anime musim ini*/
+.judulkonten {margin:0px;color:#f7931e;font-family:"Nunito";font-weight: 500;}
+.post {box-shadow: 0px 0px 5px 2px rgb(0 0 0 / 25%);border-radius: 5px;width: 100%;}
+.col-post {-ms-flex: 0 0 18%;flex: 0 0 18%;max-width: 18%;position: relative;width: 100%;margin: 5px auto 5px auto;}
+.col-100 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;position: relative;width: 100%;margin: 5px auto 5px auto;}
+.judul-post {text-align: center;font-family: "Roboto";font-size: 13px;margin: 10px 0px 10px 0px;}
+.col-post > a {color:#000;text-decoration: none;}
+
+/*Rilisan terbaru*/
+.img-post {width:160px;height:90px;border-radius: 5px;box-shadow: 0px 0px 5px 2px rgb(0 0 0 / 25%)}
+.rilis-judul {color: #f7931e;margin: 0px 0px 0px 0px;font-size: 19px;font-weight: 600;font-family: Calibri;}
+.rilis-desc {margin: 0px 0px 0px 0px;font-size: 15px;font-family: "Roboto";}
+
+/*Peringkat minggu ini*/
+.bg-rank {background-repeat: no-repeat;background-size: cover;background-position-x: right;}
+.bg-rank2 {background-repeat: no-repeat;background-size: contain;background-color: #00000080;background-image:url(../../img/banner/b.png)}
+.rank-n ,.rank-np {color: #fff;font-family:"Arial";font-size: 25px;font-weight: 600;font-style: italic;}
+.rank-n {margin: 5px 25px 5px 15px;}
+.rank-np {margin: 5px 16px 5px 10px;}
+.rank-t {color: #fff;font-family:"Calibri";font-size: 15px;margin: 0px;margin: 3px 10px 3px 10px;max-width: 230px;}
+
+/*Rekomendasi Visual Novel*/
+.vn-bg,.vn-bg2 {border-radius: 0px 0px 5px 5px;}
+.vn-bg {background-size: cover;background-position-x: center;margin: -10px;height: 200px;}
+.vn-bg2 {width: 100%;background-repeat: no-repeat;background-position-y: bottom;background-size: contain;}
+.vn-title {color:#fff;font-family:"Roboto";margin-top: auto;padding: 5px;}
+
+/*Footer*/
+.footer {}
+.footer1 {background-color:#f7931e; padding:5px}
+.footer2 {background-color:#333333;}
+.f1-text {margin: 0px 5px 0px 5px;text-align:center;}
+.f1-text2 {color:#fff;font-family:"Roboto";font-size: 13px;padding: 7px 10px;}
+.f2-menu {padding:30px}
+.f2-logo {color: #f7931e;font-family: "Arial";font-size: 60px;font-style: italic;font-weight: 600;text-decoration: none;}
+.f2-ul {margin: 0px 0px 0px -20px;}
+.f2-title {font-family: "Roboto"}
+.f2-text {color: #fff;font-family: "Roboto";font-size: 15px;font-weight: 300;line-height: 20px;text-decoration: none;}
+.f2-col {margin: 0px 35px 0px 35px;}
+.f2-desc {color:#f7931e;font-size: 12px;font-weight: 700;font-family: "Nunito"}
+
+@media(max-width : 550px){
+/*.main-content {margin: 0px -10px 0px 0px;}*/
+.navbar {margin: -10px -10px 0px -10px;}
+.pc-only {display:none!important}
+.hp-only {display:flex}
+.bg-body {margin:5px}
+.navbar {margin: -10px -10px 0px -10px;}
+.iroha {height: 200px;background-size: contain;margin: 0px -10px 0px -10px;}
+.content1,.content2,.content3  {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;position: relative;width: 100%;padding-right: 0px;padding-left: 0px;}
+.col-post {-ms-flex: 0 0 18%; flex: 0 0 30%;max-width: 30%;}
+.logo-main {font-size: 35px;}
+.desc {font-size: 10px;}
+.animix {top: 75px;left:20px;max-width: 270px;padding:0px!important;margin:0px!important}
+.animix2 {max-width: fit-content;}
+.footer {margin: 0px -10px 0px -10px;}
+.list-a > a {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.genre > a {font-size: 10px;-ms-flex: 0 0 23%;flex: 0 0 23%;max-width: 23%;position: relative;width: 100%;}
+.bg-post {margin:5px}
+.post-header {width: 104%;margin-left: -5px;}
+.post-content {margin-top: 20px;}
+.post-judul {color: #f7931e;font-family: "Nunito";font-size: 22px;font-weight: 700;margin: 0px;}
+.post-genre {font-size: 14px;}
+.sh-btn>a {-ms-flex: 0 0 90%;flex: 0 0 90%;max-width: 90%;border-radius: 0px;position: relative;width: 100%;}
+}
+
+.form-cari {
+    display: block;
+    width: 300px;
+    height: 38px;
+    padding: 0.375rem 0.75rem;
+	margin-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #f7931e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #f7931e;
+    border-radius: 10px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+
+/*.w3-sidebar{height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
+@media (min-width:993px){.w3-modal-content{width:900px}.w3-hide-large{display:none!important}
+@media (max-width:992px){.w3-sidebar.w3-collapse{display:none}.w3-main{margin-left:0!important;margin-right:0!important}.w3-auto{max-width:100%}}
+.w3-bar-block .w3-dropdown-hover,.w3-bar-block .w3-dropdown-click{width:100%}
+.w3-bar-block .w3-dropdown-hover .w3-dropdown-content,.w3-bar-block .w3-dropdown-click .w3-dropdown-content{min-width:100%}
+.w3-bar-block .w3-dropdown-hover .w3-button,.w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px}
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
+.w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+.w3-card-4,.w3-hover-shadow:hover{box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)}
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
+.w3-dropdown-hover:hover > .w3-button:first-child,.w3-dropdown-click:hover > .w3-button:first-child{background-color:#ccc;color:#000}
+.w3-bar-block .w3-dropdown-hover .w3-button,.w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px}
+.w3-bar .w3-button{white-space:normal}
+.w3-dropdown-hover.w3-mobile,.w3-dropdown-hover.w3-mobile .w3-btn,.w3-dropdown-hover.w3-mobile .w3-button,.w3-dropdown-click.w3-mobile,.w3-dropdown-click.w3-mobile .w3-btn,.w3-dropdown-click.w3-mobile .w3-button{width:100%}}
+.w3-button:hover{color:#000!important;background-color:#ccc!important}*/
